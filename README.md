@@ -9,7 +9,7 @@
  <img  src="https://badges.pufler.dev/commits/monthly/DrDendrite" />
  </div>
 
-###
+
 <br/><br/>
 
 ## 🙋🏽 &nbsp;About Me
